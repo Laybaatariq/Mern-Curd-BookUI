@@ -198,5 +198,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the MIT License.
 
-
-**Ab copy-paste karo aur repository mein README.md file banao!** 🚀
